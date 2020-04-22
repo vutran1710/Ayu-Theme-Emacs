@@ -7,6 +7,7 @@
 * Content                                                               :TOC:
 - [[#introduction][Introduction]]
 - [[#screenshots][Screenshots]]
+- [[#installing][Installing]]
 - [[#why-not-melpa][Why not Melpa?]]
 - [[#licensecredit][License/Credit]]
 
@@ -28,6 +29,19 @@ names.
 [[./img/dark.png]]
 
 
+* Installing
+
+Just copy the lisp files to your emacs config dir (ie: *~/.emacs.d*) and load them...
+
+*Example*
+#+begin_src  code
+cp ayu-*.el ~/.emacs.d/themes
+#+end_src
+
+And somewhere, with a little lisp...
+#+begin_src lisp
+(setq custom-theme-directory "~/.emacs.d/themes")
+#+end_src
 
 * Why not Melpa?
 I'd love to have this published to *Melpa* but I'm just too lazy to do that. If you find it nice and worth sharing, and if you can help publishing this, that would be awesome.
