@@ -1,0 +1,40 @@
+#+OPTIONS: ^:nil
+#+TITLE: Ayu-Theme Pack for Emacs
+#+DATE: <2018-07-31 Tue>
+#+AUTHOR: Vu Tran
+#+EMAIL: me@vutr.io`
+
+* Content                                                               :TOC:
+- [[#introduction][Introduction]]
+- [[#screenshots][Screenshots]]
+- [[#why-not-melpa][Why not Melpa?]]
+- [[#licensecredit][License/Credit]]
+
+* Introduction
+Refer to the original [[https://github.com/dempfi/ayu][Ayu-theme]]. It's truly an amazing set of theme and someone has to port it to Emacs eventually.
+
+This repo currently only provides 2 versions of Ayu-theme: the light & the dark. Refer to the files with correspondent
+names.
+
+
+* Screenshots
+
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 600
+[[./img/light.png]]
+
+
+
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 600
+[[./img/dark.png]]
+
+
+
+* Why not Melpa?
+I'd love to have this published to *Melpa* but I'm just too lazy to do that. If you find it nice and worth sharing, and if you can help publishing this, that would be awesome.
+
+* License/Credit
+All go to the original author of Ayu-theme.
+
+I just did the copy works.
+
+The colors might not be 100% accurate.
