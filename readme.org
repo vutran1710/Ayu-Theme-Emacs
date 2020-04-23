@@ -20,14 +20,16 @@ names.
 
 * Screenshots
 
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 600
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 300
 [[./img/light.png]]
 
 
 
-#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 600
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 300
 [[./img/dark.png]]
 
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto; :width 300
+[[./img/grey.png]]
 
 * Installing
 
