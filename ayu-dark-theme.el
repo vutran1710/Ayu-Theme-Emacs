@@ -3,10 +3,8 @@
 
 (custom-theme-set-faces
  'ayu-dark
- '(default ((t (:family "Fira Code" :foundry "nil" :width normal :height 120 :weight light :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :foreground "#c3c0bb" :background "#000919" :stipple nil :inherit nil))))
+ '(default ((t (:foreground "#c3c0bb" :background "#000919" ))))
  '(cursor ((t (:background "DarkOrange1"))))
- '(fixed-pitch ((t (:family "Monospace"))))
- '(variable-pitch ((((type w32)) (:foundry "outline" :family "Arial")) (t (:family "Sans Serif"))))
  '(escape-glyph ((((background dark)) (:foreground "cyan")) (((type pc)) (:foreground "magenta")) (t (:foreground "brown"))))
  '(minibuffer-prompt ((t (:foreground "#9DA5B4"))))
  '(highlight ((t (:background "#3E4451"))))
@@ -16,7 +14,7 @@
  '(trailing-whitespace ((((class color) (background light)) (:background "red1")) (((class color) (background dark)) (:background "red1")) (t (:inverse-video t))))
  '(font-lock-builtin-face ((t (:foreground "DeepSkyBlue1"))))
  '(font-lock-comment-delimiter-face ((t (:inherit (font-lock-comment-face)))))
- '(font-lock-comment-face ((t (:slant italic :foreground "#5C6370"))))
+ '(font-lock-comment-face ((t (:foreground "#5C6370"))))
  '(font-lock-constant-face ((t (:foreground "#01fcff"))))
  '(font-lock-doc-face ((t (:inherit (font-lock-string-face)))))
  '(font-lock-function-name-face ((t (:foreground "#00bbea"))))
@@ -27,7 +25,7 @@
  '(font-lock-regexp-grouping-construct ((t (:inherit (bold)))))
  '(font-lock-string-face ((t (:slant italic :foreground "#bfe438"))))
  '(font-lock-type-face ((t (:foreground "#eec900"))))
- '(font-lock-variable-name-face ((t (:foreground "#f8b000"))))
+ '(font-lock-variable-name-face ((t (:foreground "#9ba0a9"))))
  '(font-lock-warning-face ((t (:weight bold :foreground "#5C6370"))))
  '(button ((t (:inherit (link)))))
  '(link ((t (:weight bold :underline (:color foreground-color :style line) :foreground "#61AFEF"))))

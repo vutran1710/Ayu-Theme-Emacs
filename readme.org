@@ -14,7 +14,7 @@
 * Introduction
 Refer to the original [[https://github.com/dempfi/ayu][Ayu-theme]]. It's truly an amazing set of theme and someone has to port it to Emacs eventually.
 
-This repo currently only provides 2 versions of Ayu-theme: the light & the dark. Refer to the files with correspondent
+This repo currently provides 3 versions of Ayu-theme: the light, they grey & the dark. Refer to the files with correspondent
 names.
 
 
