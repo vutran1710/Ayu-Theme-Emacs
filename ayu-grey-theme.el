@@ -1,3 +1,10 @@
+;;; ayu-grey-theme.el --- Ayu-theme gray
+
+;;; Commentary:
+;;
+
+;;; Code:
+
 (deftheme ayu-grey
   "Created 2018-05-06. An emacs-port of the dark verions of the amazing Ayu-theme")
 
@@ -50,3 +57,7 @@
  '(linum ((t (:foreground "gray30")))))
 
 (provide-theme 'ayu-grey)
+
+(provide 'ayu-grey-theme)
+
+;;; ayu-grey-theme.el ends here
