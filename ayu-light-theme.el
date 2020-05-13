@@ -1,3 +1,10 @@
+;;; ayu-light-theme.el --- Ayu light
+
+;;; Commentary:
+;;
+
+;;; Code:
+
 (deftheme ayu-light
   "Crafted by vutr.io, as a emacs-port version of the amazing Ayu theme")
 
@@ -50,3 +57,7 @@
  '(linum-highlight-face ((t (:foreground "tomato1")))))
 
 (provide-theme 'ayu-light)
+
+(provide 'ayu-light-theme)
+
+;;; ayu-light-theme.el ends here
