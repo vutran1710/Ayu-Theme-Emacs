@@ -56,8 +56,12 @@
  '(linum-highlight-face ((t (:foreground "gray70"))))
  '(linum ((t (:foreground "gray30")))))
 
-(provide-theme 'ayu-grey)
+;;;###autoload
+(and load-file-name
+     (add-to-list 'custom-theme-load-path
+                  (file-name-as-directory
+                   (file-name-directory load-file-name))))
 
-(provide 'ayu-grey-theme)
+(provide-theme 'ayu-grey)
 
 ;;; ayu-grey-theme.el ends here
