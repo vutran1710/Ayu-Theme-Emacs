@@ -48,6 +48,15 @@ And somewhere, with a little lisp...
 * Why not Melpa?
 I'd love to have this published to *Melpa* but I'm just too lazy to do that. If you find it nice and worth sharing, and if you can help publishing this, that would be awesome.
 
+It's possible to install individual themes using [[https://github.com/quelpa/quelpa][Quelpa]], though.
+#+BEGIN_SRC emacs-lisp
+(use-package ayu-dark-theme
+  :config (load-theme 'ayu-dark t)
+  :quelpa
+  (ayu-dark-theme :repo "vutran1710/Ayu-Theme-Emacs" :fetcher github :files ("ayu-dark-theme.el")))
+#+END_SRC
+
+
 * License/Credit
 All go to the original author of Ayu-theme.
 
