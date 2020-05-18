@@ -1,4 +1,6 @@
-;;; ayu-grey-theme.el --- Ayu-theme gray
+;;; ayu-grey-theme.el --- Ayu-theme gray -*- lexical-binding: t; -*-
+
+;; SPDX-License-Identifier: MIT
 
 ;;; Commentary:
 ;;

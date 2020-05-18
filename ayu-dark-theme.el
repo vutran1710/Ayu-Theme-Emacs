@@ -1,4 +1,6 @@
-;;; ayu-dark-theme.el --- Ayu dark
+;;; ayu-dark-theme.el --- Ayu dark -*- lexical-binding: t; -*-
+
+;; SPDX-License-Identifier: MIT
 
 ;;; Commentary:
 ;;
