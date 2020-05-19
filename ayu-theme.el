@@ -3,9 +3,9 @@
 ;; Copyright (C) 2020 Tran Anh Vu
 
 ;; Author: Tran Anh Vu
-;; Keywords: lisp
-;; Version: 0
+;; Keywords: lisp theme emacs
 ;; URL: https://github.com/vutran1710/Ayu-Theme-Emacs
+;; Package-Version: 1.0
 ;; Package-Requires: ((emacs "24.1"))
 
 ;; SPDX-License-Identifier: MIT
