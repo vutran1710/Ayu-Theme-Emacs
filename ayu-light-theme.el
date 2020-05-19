@@ -1,7 +1,13 @@
-;;; ayu-light-theme.el --- Ayu light
+;;; ayu-light-theme.el --- Ayu light -*- lexical-binding: t; -*-
+
+;; SPDX-License-Identifier: MIT
+
+;; URL: https://github.com/vutran1710/Ayu-Theme-Emacs
+;; Package-Version: 1.0
+;; Package-Requires: ((emacs "24.1"))
 
 ;;; Commentary:
-;;
+;; Ayu light
 
 ;;; Code:
 
