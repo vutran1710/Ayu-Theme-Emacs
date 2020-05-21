@@ -57,13 +57,14 @@ With *use-package* macro:
 
 ** Quelpa
 
-It's possible to install individual themes using [[https://github.com/quelpa/quelpa][Quelpa]], though.
+It's possible to install them using [[https://github.com/quelpa/quelpa][Quelpa]], though.
 
 #+BEGIN_SRC emacs-lisp
-(use-package ayu-dark-theme
-  :config (load-theme 'ayu-dark t)
+(use-package ayu-theme
   :quelpa
-  (ayu-dark-theme :repo "vutran1710/Ayu-Theme-Emacs" :fetcher github :files ("ayu-dark-theme.el")))
+  (ayu-theme :repo "vutran1710/Ayu-Theme-Emacs" :fetcher github)
+  :config
+  (load-theme 'ayu-dark t))
 #+END_SRC
 
 * License/Credit
