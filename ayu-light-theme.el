@@ -59,7 +59,7 @@
  '(match ((t (:inverse-video nil :foreground "#FAFAFA" :background "#558b2f"))))
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch)))))
- '(line-number ((t (:foreground "#d1d4d5"))))
+ '(line-number ((t (:foreground "#e3e4e5"))))
  '(line-number-current-line ((t (:foreground "#ff772d")))))
 
 ;;;###autoload
