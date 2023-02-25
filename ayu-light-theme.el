@@ -16,7 +16,7 @@
 
 (custom-theme-set-faces
  'ayu-light
- '(default ((t (:slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :foreground "#5a6c75" :background "#eff5f8" :stipple nil :inherit nil))))
+ '(default ((t (:foreground "#5a6c75" :background "#f8fbfc"))))
  '(cursor ((t (:background "#f8c363"))))
  '(fixed-pitch ((t (:family "Monospace"))))
  '(variable-pitch ((((type w32)) (:foundry "outline" :family "Arial")) (t (:family "Sans Serif"))))
