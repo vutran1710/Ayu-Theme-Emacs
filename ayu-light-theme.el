@@ -16,7 +16,7 @@
 
 (custom-theme-set-faces
  'ayu-light
- '(default ((t (:family "Overpass Mono" :foundry "nil" :width normal :height 120 :weight normal :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :foreground "gray40" :background "#fafafa" :stipple nil :inherit nil))))
+ '(default ((t (:foundry "nil" :width normal :height 120 :weight normal :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :foreground "gray40" :background "#fafafa" :stipple nil :inherit nil))))
  '(cursor ((t (:background "dark blue"))))
  '(fixed-pitch ((t (:family "Monospace"))))
  '(variable-pitch ((((type w32)) (:foundry "outline" :family "Arial")) (t (:family "Sans Serif"))))
