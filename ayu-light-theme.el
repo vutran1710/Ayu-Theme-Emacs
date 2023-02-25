@@ -59,8 +59,8 @@
  '(match ((t (:inverse-video nil :foreground "#FAFAFA" :background "#558b2f"))))
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch)))))
- '(linum ((t (:foreground "gray70"))))
- '(linum-highlight-face ((t (:foreground "tomato1")))))
+ '(line-number ((t (:foreground "#d1d4d5"))))
+ '(line-number-current-line ((t (:foreground "#ff772d")))))
 
 ;;;###autoload
 (and load-file-name
