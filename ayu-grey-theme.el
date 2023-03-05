@@ -45,7 +45,7 @@
  '(button ((t (:inherit (link)))))
  '(link ((t (:weight bold :underline (:color foreground-color :style line) :foreground "#61AFEF"))))
  '(link-visited ((t (:weight normal :underline (:color foreground-color :style line) :foreground "#61AFEF"))))
- '(fringe ((t (:background "black"))))
+ '(fringe ((t (:background "#232937"))))
  '(header-line ((t (:box nil :foreground "grey90" :background "grey20" :inherit (mode-line)))))
  '(tooltip ((t (:foreground "black" :background "lightyellow" :inherit (variable-pitch)))))
  '(mode-line ((t (:box (:line-width 1 :color "#181A1F" :style nil) :foreground "#9DA5B4" :background "#21252B"))))
@@ -60,6 +60,7 @@
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch)))))
  '(line-number ((t (:foreground "#41495c"))))
+ '(vertical-border ((t (:foreground "#4e586d"))))
  '(line-number-current-line ((t (:foreground "#fff")))))
 
 ;;;###autoload
