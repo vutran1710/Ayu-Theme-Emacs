@@ -59,7 +59,7 @@
  '(match ((((class color) (min-colors 88) (background light)) (:background "yellow1")) (((class color) (min-colors 88) (background dark)) (:background "RoyalBlue3")) (((class color) (min-colors 8) (background light)) (:foreground "black" :background "yellow")) (((class color) (min-colors 8) (background dark)) (:foreground "white" :background "blue")) (((type tty) (class mono)) (:inverse-video t)) (t (:background "gray"))))
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch)))))
- '(line-number ((t (:foreground "#41495c"))))
+ '(line-number ((t (:foreground "#353c4e"))))
  '(vertical-border ((t (:foreground "#4e586d"))))
  '(line-number-current-line ((t (:foreground "#fff")))))
 
