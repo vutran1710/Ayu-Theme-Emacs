@@ -8,6 +8,9 @@
 - [[#introduction][Introduction]]
 - [[#screenshots][Screenshots]]
 - [[#installing][Installing]]
+  - [[#manual][Manual]]
+  - [[#melpa][Melpa]]
+  - [[#quelpa][Quelpa]]
 - [[#licensecredit][License/Credit]]
 
 * Introduction
