@@ -48,11 +48,11 @@
  '(fringe ((t (:background "#232937"))))
  '(header-line ((t (:box nil :foreground "grey90" :background "grey20" :inherit (mode-line)))))
  '(tooltip ((t (:foreground "black" :background "lightyellow" :inherit (variable-pitch)))))
- '(mode-line ((t (:box (:line-width 1 :color "#181A1F" :style nil) :foreground "#9DA5B4" :background "#21252B"))))
+ '(mode-line ((t (:foreground "#f6b26b" :background "#181e26"))))
  '(mode-line-buffer-id ((t (:weight bold))))
  '(mode-line-emphasis ((t (:weight bold))))
  '(mode-line-highlight ((((class color) (min-colors 88)) (:box (:line-width 2 :color "grey40" :style released-button))) (t (:inherit (highlight)))))
- '(mode-line-inactive ((t (:box (:line-width 1 :color "#181A1F" :style nil) :foreground "#3E4451" :background "#181A1F"))))
+ '(mode-line-inactive ((t (:foreground "#3E4451" :background "#181A1F"))))
  '(isearch ((t (:foreground "#282C34" :background "#C678DD"))))
  '(isearch-fail ((t (:foreground "#BE5046"))))
  '(lazy-highlight ((t (:underline (:color "#C678DD" :style line) :foreground "#C678DD" :background "#121417"))))
@@ -60,7 +60,7 @@
  '(next-error ((t (:inherit (region)))))
  '(query-replace ((t (:inherit (isearch)))))
  '(line-number ((t (:foreground "#353c4e"))))
- '(vertical-border ((t (:foreground "#4e586d"))))
+ '(vertical-border ((t (:foreground "#101319"))))
  '(line-number-current-line ((t (:foreground "#ffe599")))))
 
 ;;;###autoload
