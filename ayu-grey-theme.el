@@ -32,14 +32,14 @@
  '(font-lock-comment-face ((t (:foreground "#578697"))))
  '(font-lock-constant-face ((t (:foreground "#0efecd"))))
  '(font-lock-doc-face ((t (:foreground "#f1c232"))))
- '(font-lock-function-name-face ((t (:foreground "#ffe400"))))
- '(font-lock-keyword-face ((t (:foreground "#ff6d35"))))
+ '(font-lock-function-name-face ((t (:foreground "#ffeb99"))))
+ '(font-lock-keyword-face ((t (:foreground "#ffb266"))))
  '(font-lock-negation-char-face ((t nil)))
- '(font-lock-preprocessor-face ((t (:foreground "#f44336"))))
+ '(font-lock-preprocessor-face ((t (:foreground "#f37070"))))
  '(font-lock-regexp-grouping-backslash ((t (:inherit (bold)))))
  '(font-lock-regexp-grouping-construct ((t (:inherit (bold)))))
  '(font-lock-string-face ((t (:foreground "#a8ff45"))))
- '(font-lock-type-face ((t (:foreground "#6ceaff"))))
+ '(font-lock-type-face ((t (:foreground "#67d7ef"))))
  '(font-lock-variable-name-face ((t (:foreground "#ffd966"))))
  '(font-lock-warning-face ((t (:weight bold :foreground "#5C6370"))))
  '(button ((t (:inherit (link)))))
@@ -61,7 +61,7 @@
  '(query-replace ((t (:inherit (isearch)))))
  '(line-number ((t (:foreground "#353c4e"))))
  '(vertical-border ((t (:foreground "#4e586d"))))
- '(line-number-current-line ((t (:foreground "#fff")))))
+ '(line-number-current-line ((t (:foreground "#ffe599")))))
 
 ;;;###autoload
 (and load-file-name
